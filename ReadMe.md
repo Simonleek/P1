@@ -11,6 +11,7 @@ Not required
 
 ## Details for teaching team
 CSS file - P1CSS.css
+
 Profile image is saved as jpg under the same folder.
 
 ## Outside code
