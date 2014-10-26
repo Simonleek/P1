@@ -4,7 +4,7 @@
 <http://p1.simonleetoronto.me>
 
 ## Description
-My profile page for CSC E15
+My profile page for CSCE15
 
 ## Demo
 Not required
